@@ -17,6 +17,8 @@ https://fastapi.tiangolo.com/tutorial/sql-databases/#interact-with-the-database-
 
 # Endpoints
 
+You can test these out using Postman(https://www.postman.com/) which is free.
+
 - GET localhost:8000/todos - returns all the todos in the todos_list.
 - GET localhost:8000/todo/{id} - returns the specific todo object
 - POST localhost:8000/todo/add - adds a todo object from your request body.
